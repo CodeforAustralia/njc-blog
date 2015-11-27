@@ -7,17 +7,16 @@
 @yellow:#F2BD70;
 @header-height:10vh;
 
-body {
+body.njc {
 
   font-size:16pt;
   font-family:'Roboto', helvetica, verdana, sans-serif;
   color:@dark-grey;
+  background:@light-grey-1;
 
   header {
-    min-height:@header-height;
     padding:2rem 0;
     background:@light-grey-2;
-    color:@light-grey-1;
     img {
       position:relative;
       top:2rem;
@@ -26,9 +25,9 @@ body {
   }
 
   main {
-    min-height:60vh;
+    background:transparent;
+    min-height:30vh;
     padding:2rem 0;
-    background:@light-grey-1;
     ul {
       padding:0;margin:0;margin-left:2rem;
       li {list-style-type:square;}
@@ -41,9 +40,7 @@ body {
   }
 
   footer {
-    min-height:20vh;
     padding:2rem 0;
-    background:@light-grey-1;
     ul {
       padding:0;margin:0;
       li {display:inline-block;margin-right:1rem;}
@@ -59,6 +56,10 @@ body {
     &:hover {
       text-decoration: none;
     }
+  }
+
+  header a {
+    border:none;
   }
 
   h1, h2, h3, h4, h5, h6 {

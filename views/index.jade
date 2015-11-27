@@ -1,5 +1,39 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  header
+    .container
+      .row
+        .col-xs-8
+          h1 Code for Australia Fellowship
+          h2 Neighbourhood Justice Centre, Collingwood
+        .col-xs-4.text-right
+          a(href="http://codeforaustralia.org")
+            img(src="/images/logo.png")
+  main
+    .container
+      h3 Hello,
+      p This is a space to communicate updates about my fellowship with the NJC, stay tuned for blog posts and more.
+
+      h3 Presentations
+      ul
+        li
+          span.date Nov 17:&nbsp;
+          a(href='20151117-smart-gov.html') Smarter public service
+        li
+          span.date Oct 27:&nbsp;
+          a(href='20151027-observations.html') NJC Observations
+  footer
+    .container
+      ul
+        li
+          a(href="http://github.com/theatlasroom") Github
+        li
+          a(href="http://github.com/theatlasroom") Twitter
+        li
+          a(href="http://neighbourhoodjustice.vic.gov.au") Neighbourhood Justice Centre
+        li
+          a(href="http://codeforaustralia.org") Code for Australia
+      p
+        | Designed and maintained by:&nbsp;
+        a(href="http://github.com/theatlasroom") @theatlasroom
