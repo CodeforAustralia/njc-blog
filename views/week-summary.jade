@@ -3,8 +3,12 @@ extends layout
 block content
   header
     .container
-      h1 Week ##{week}
+      .row
+        .col-xs-8
+          h1 Week ##{week} summary
+        .col-xs-4.text-right
+          img(src="/images/logo.png")
   main
-    .container !{html}      
+    .container !{html}
   footer
     .container
