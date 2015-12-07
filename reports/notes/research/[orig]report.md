@@ -1,4 +1,3 @@
-# Stakeholder engagement report back
 ## What have i done
 I have spent ~ hours over ~ days at the NJC, this has been a mixture of shadowing staff in their various roles, mapping, reading, listening, hearing and documenting whatever I can about the background and the context the NJC operates in, sitting in on various community events and networks.
 

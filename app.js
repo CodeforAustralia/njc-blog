@@ -11,6 +11,7 @@ var weeks = require('./routes/weeks');
 var report_app = require('./reports/app');
 
 var app = express();
+app.locals.pretty = true;
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));

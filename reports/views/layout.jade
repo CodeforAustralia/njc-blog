@@ -4,6 +4,11 @@ doctype html
 html
   head
     title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel="stylesheet", type="text/css", href='http://d2v52k3cl9vedd.cloudfront.net/basscss/7.0.4/basscss.min.css')
+    link(rel="stylesheet/less", type="text/css", href='/reports/less/styles.less')
+    script(type="text/javascript", src="https://cdnjs.cloudflare.com/ajax/libs/less.js/2.5.3/less.min.js")
+
+    link(rel="stylesheet", href='https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css')
   body
-    block content
+    .container
+      block content
