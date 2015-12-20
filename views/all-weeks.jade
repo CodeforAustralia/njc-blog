@@ -1,0 +1,24 @@
+extends layout
+
+block content
+  header
+    .container
+      .row.text-right
+        .col-xs-12
+          a(href="http://codeforaustralia.org")
+            img(src="/images/logo.png")
+      .row
+        .col-xs-12
+          h1 Code for Australia Fellowship
+          h2 Neighbourhood Justice Centre, Collingwood
+  main
+    .container
+      h3 Weekly Summaries
+        - var n = start
+        ul
+          while n <= end
+            li
+              a(href="/weeks/#{n}") Week&nbsp;#{n}
+                - n++
+  footer
+    .container

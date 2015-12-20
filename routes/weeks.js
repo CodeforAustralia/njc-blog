@@ -10,7 +10,9 @@ var summaries_dir = "/../summaries/";
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  res.send('return all the updates');
+  var start_index = 15;
+  var end_index = 18;
+  res.render('all-weeks', {start: start_index, end: end_index});
 });
 
 /* GET users listing. */
