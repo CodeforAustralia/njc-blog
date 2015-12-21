@@ -62,8 +62,12 @@ body.njc {
   a {
     color:inherit;
     border-bottom:dotted 1px;
-    &:hover {
+    &:hover, &:active, &:visited, &:link {
       text-decoration: none;
+    }
+
+    &:hover, &:active {
+      font-weight:bold;
     }
   }
 

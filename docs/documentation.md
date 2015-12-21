@@ -16,9 +16,9 @@
 
 ### Prototyping
 * Electronic FV / PS Orders: [Asana project](https://app.asana.com/0/65460989144749/list) | [Live demo](http://njc-efv.herokuapp.com)
-*  NJC Intranet: [Live demo](http://njc-intranet.herokuapp.com)
+* NJC Intranet: [Live demo](http://njc-intranet.herokuapp.com)
 * MyNJC: [Asana project](https://app.asana.com/0/65460989144750/list)
-* In/Outboard: [Asana project](https://app.asana.com/0/65460989144748/list) | [Live demo](http://njc-efv.herokuapp.com)
+* In/Outboard alternative: [Asana project](https://app.asana.com/0/65460989144748/list) | [Live demo](http://njc-efv.herokuapp.com)
 * NJC in the community (map): [Asana project](https://app.asana.com/0/65458243259878/list) | [Moqups](https://app.moqups.com/ekigbo/5ZBPPdq0mn/view/page/a1c9a6a86)
 * Internal knowledge sharing: [Asana project](https://app.asana.com/0/65458243259875/list)
 * Client engagement: [Asana project](https://app.asana.com/0/65458243259877/list)
