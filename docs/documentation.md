@@ -1,7 +1,7 @@
 ## Documentation, notes + links
 
 ### General
-* [Weekly Summaries](http://localhost:3000/weeks)
+* [Weekly Summaries](/weeks)
 
 ### User research
 * [Draft plan](https://docs.google.com/a/codeforaustralia.org/document/d/1P_RL06H0FK-DSSnlRjlFwCoUDheLsRlkTo4IQcy_Yuw/edit?usp=drive_web)
