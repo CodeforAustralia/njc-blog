@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  main
+    .container
+      h3 Todos
+        ul
+          each task in todos
+            li #{task.title}

@@ -9,6 +9,7 @@ var routes = require('./routes/index');
 var users = require('./routes/users');
 var weeks = require('./routes/weeks');
 var prototypes = require('./routes/prototypes');
+var todos = require('./routes/todos');
 var documentation = require('./routes/documentation');
 var report_app = require('./reports/app');
 
@@ -30,6 +31,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', routes);
 app.use('/users', users);
 app.use('/weeks', weeks);
+app.use('/todos', todos);
 app.use('/prototypes', prototypes);
 app.use('/documentation', documentation);
 app.use('/reports', report_app);
