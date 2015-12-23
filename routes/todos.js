@@ -6,6 +6,8 @@ var fs = require('fs');
 /* GET users listing. */
 router.get('/', function(req, res, next) {
   var todos = [
+    {title: 'Spin off the NJC intranet interface into a repo'},
+    {title: 'Jessica Enders reporting back to NJC'},
     {title: 'Talk to @rustum about DOE slack'},
     {title: 'Clean up referrals map'},
     {title: 'Make referrals map + FV prettier'},
