@@ -6,8 +6,12 @@ var fs = require('fs');
 /* GET users listing. */
 router.get('/', function(req, res, next) {
   var todos = [
+    {title: 'Hieng to send me: Cherry\'s report, stuart ross - melb uni criminology academic '},
+    {title: 'Chase up online adjournments with Gavin'},
     {title: 'Spin off the NJC intranet interface into a repo'},
-    {title: 'Jessica Enders reporting back to NJC'},
+    {title: 'Catchup with Gaz / GA'},
+    {title: 'Contact / Catch up with ri / data viz meetup'},
+    {title: 'Jessica Enders reporting back to NJC mid Feb'},
     {title: 'Talk to @rustum about DOE slack'},
     {title: 'Clean up referrals map'},
     {title: 'Make referrals map + FV prettier'},
@@ -18,6 +22,7 @@ router.get('/', function(req, res, next) {
   var done = [
     {title: 'set up njc slack'},
   ];
+
   res.render('todos', {todos: todos});
 });
 
