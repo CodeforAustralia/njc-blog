@@ -2,6 +2,8 @@
 
 ### General
 * [Weekly Summaries](/weeks)
+* [18F Method cards](/docs/18f-method-cards)
+[//]: # (* [User Needs](/docs/user-needs))
 
 ### User research
 * [Draft plan](https://docs.google.com/a/codeforaustralia.org/document/d/1P_RL06H0FK-DSSnlRjlFwCoUDheLsRlkTo4IQcy_Yuw/edit?usp=drive_web)

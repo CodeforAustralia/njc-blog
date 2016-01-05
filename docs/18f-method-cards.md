@@ -1,4 +1,6 @@
 # 18F Method Cards
+Developed by [18f](http://18f.gov/)
+
 ## Discover phase
 ### Cognitive walk through
 An evaluation method in which evaluators or potential users who are unfamilliar with a design work through a set of representative tasks and ask questions about the tasks as they go.

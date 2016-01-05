@@ -1,15 +1,9 @@
 extends layout
 
 block content
-  header
-    .container
-      .row.text-right
-        .col-xs-12
-          img(src="/images/logo.png")
-      .row
-        .col-xs-12
-          h1 Week ##{week} summary
   main
-    .container !{html}
+    .container
+      h1 Week ##{week} summary
+      !{html}
   footer
     .container
