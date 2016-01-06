@@ -1,6 +1,23 @@
 # 18F Method Cards
 Developed by [18f](http://18f.gov/)
 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [18F Method Cards](#18f-method-cards)
+	- [Discover phase](#discover-phase)
+		- [Cognitive walk through](#cognitive-walk-through)
+		- [Metrics definition](#metrics-definition)
+		- [Feature dot voting](#feature-dot-voting)
+	- [Decide Stage](#decide-stage)
+		- [Mental modelling](#mental-modelling)
+		- [Affinity diagramming](#affinity-diagramming)
+		- [Task flow analysis](#task-flow-analysis)
+		- [Comparative analysis](#comparative-analysis)
+	- [Make](#make)
+		- [Protosketching](#protosketching)
+
+<!-- /TOC -->
+
 ## Discover phase
 ### Cognitive walk through
 An evaluation method in which evaluators or potential users who are unfamilliar with a design work through a set of representative tasks and ask questions about the tasks as they go.
