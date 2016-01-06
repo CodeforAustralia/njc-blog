@@ -32,7 +32,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', routes);
 app.use('/users', users);
 app.use('/weeks', weeks);
-app.use('/todos', todos);
+// app.use('/todos', todos); // removed - now all on asana
 app.use('/prototypes', prototypes);
 app.use('/documentation', documentation);
 app.use('/docs', docs);

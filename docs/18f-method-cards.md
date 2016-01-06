@@ -17,7 +17,7 @@ Developed by [18f](http://18f.gov/)
 
 ## Discover phase
 ### Cognitive walk through
-An evaluation method in which evaluators or potential users who are unfamilliar with a design work through a set of representative tasks and ask questions about the tasks as they go.
+An evaluation method in which evaluators or potential users who are un-familliar with a design work through a set of representative tasks and ask questions about the tasks as they go.
 
 To understand whether a design solution is easy for a new or infrequent user to learn, and why it is or isnt easy.
 
@@ -30,15 +30,15 @@ To understand whether a design solution is easy for a new or infrequent user to 
 5. Analyze the walkthrough results to highlight what users learned easily and what needs improvement.
 
 ### Metrics definition
-A collaborative effort to define problems through a focus on goals and the criteria by which a team will measure a solution's impcat on those problems.
+A collaborative effort to define problems through a focus on goals and the criteria by which a team will measure a solution's impact on those problems.
 
 To keep the team vigilant about the user's perspective and to establish a user-centered framework for passively measuring over time. Research keeps us vigilant about building metrics that emphasize the user's perspective rather than metrics that make us appear good at our jobs.
 
-1. Describe the exisiting situation to the team, including who the stakeholders are and what their stake is.
+1. Describe the existing situation to the team, including who the stakeholders are and what their stake is.
 2. Use personas to identify user's skills, practices and behaviours. Decide which you want to promote and how you would measure that. Next look at persona's pain points and consider how you would alleviate them (and how you would measure that)
 3. Anonymously collect the teams greatest hopes and fears. Print these out group them by topic, and discuss. Think about how you can measure throughout the project, whether its aligning with your collective hopes or deviating towards you fears.
 4. Craft a problem statement:
-> We have observed that [product/service/organization] isnt meeting these [goals/needs] which is causing [this adverse effect], How might we improve so that our team/organization is more successful based on these [measureable criteria]?
+> We have observed that [product/service/organization] isnt meeting these [goals/needs] which is causing [this adverse effect], How might we improve so that our team/organization is more successful based on these [measurable criteria]?
 
 ### Feature dot voting
 A simple voting exercise to identify a group's collective priorities for potential features or user stories.
@@ -55,7 +55,7 @@ To build group consensus quickly from the priorities of individual in the group.
 
 ## Decide Stage
 ### Mental modelling
-A simple reference model that correlates existing and potential infterfaces with user behaviours.
+A simple reference model that correlates existing and potential interfaces with user behaviours.
 
 To help designers anticipate how design decisions might facilitate future behaviours.
 
