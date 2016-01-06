@@ -1,8 +1,7 @@
 # 18F Method Cards
 Developed by [18f](http://18f.gov/)
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
+## TOC
 - [18F Method Cards](#18f-method-cards)
 	- [Discover phase](#discover-phase)
 		- [Cognitive walk through](#cognitive-walk-through)
@@ -15,8 +14,6 @@ Developed by [18f](http://18f.gov/)
 		- [Comparative analysis](#comparative-analysis)
 	- [Make](#make)
 		- [Protosketching](#protosketching)
-
-<!-- /TOC -->
 
 ## Discover phase
 ### Cognitive walk through
