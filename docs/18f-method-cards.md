@@ -12,6 +12,8 @@ Developed by [18f](http://18f.gov/)
 		- [Affinity diagramming](#affinity-diagramming)
 		- [Task flow analysis](#task-flow-analysis)
 		- [Comparative analysis](#comparative-analysis)
+		- [Journey Mapping](#journey-mapping)
+		- [User scenarios](#user-scenarios)
 	- [Make](#make)
 		- [Protosketching](#protosketching)
 
@@ -94,6 +96,35 @@ To identify competitors solutions that excel, are lacking, or a missing critical
 3. Break down the analysis of each selected competitor into specific focal areas for evaluation. For example, how relevant are search results?
 4. Use a spreadsheet to capture the evaluation and determine how the targeted services and agencies perform based on the identified heuristics.
 5. Present the analysis, which should showcase areas of opportunities that you can take advantage of and design patterns you might adopt or avoid.
+
+### Journey mapping
+A visualisation of the major interactions shaping a user's experience of a product or service.
+
+To provide design teams with a birds-eye view of a design system, helping them see the, order, complexity, successes, pain points and interactions that make up a users experience.
+
+1. Document the elements of the projects design context
+ * People invovled and their related goals
+ * Their behaviours in pursuit of their goals
+ * Information, devices and services that support their behaviours
+ * Discrete moments or major decisions they make
+ * The emotions associated with these moments or decisions
+2. Visualize the order in which people exhibit behaviours, use information, make decisions and feel emotions. Group elements into a table of phases related to the personal narrative of each persona. Identify where personas share contextual components.
+3. Discuss th emap with stakeholders, point out insights it offers. Use these insights to establish design principles. Think about how to collapse or accelerate a customers journey through the various phases. Incorporate this information into the projects scope.
+4. You can also map user journesy as part of a workshop with stakeholders, similar to a design studio.
+
+### User scenarios
+Stories and context - focused on identifying the what, who, how and why - behind why a specific user or user group comes to your site.
+
+To remind a team, during both the design and validation phases of the overarching goal(s) that users have when interacting with a solution. Scenarios help the team consider the design of the solution as a whole rather than getting caught up by specific pages, elements or interactions. They note questions and goals and sometimes define the possibilities of how the user(s) can achieve them.
+
+1. Identify the target user group and any common user goals and scenarios that a person must go through when interacting with a solution.
+2. Decide which type of scenario you're going to write.
+	* Goal or task-based, short and specific, focus on the core aspects of the goal or task
+	* Elaborate, provide additional details about the environment and context.
+	* Full-Scale, include various steps a user needs to take as well as their environment and context
+3. Describe why its important for a user to be able to accomplish their goal or complete the scenario
+4. Share with the full team for feedback and refinement
+5. If you want to use the scenarios for usability testing, write them so they do not lead the participant to the correct outcome.
 
 ## Make
 ### Protosketching
