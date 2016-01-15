@@ -30,12 +30,14 @@
 ## Notes
 * Maybe at the end, regardless we give everyone 5mins to sketch their ideal njc website?
 * Might be worth doing a content audit + look at analytics data to get an idea of what people are currently looking at?
+* Figure out deadline of when the site will be done
 
 ## Followup
 * We can repeat the process with members of other groups
  - Uni / tafe students / researchers
  - Services that work with justice / courts -> Police, health, housing etc
  - other courts?
+* Anyone want to be involved in further testing of the website
 
 ## Questions
 * Do we have a rough idea of numbers? or the capacity of the room etc?
