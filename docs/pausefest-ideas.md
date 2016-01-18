@@ -1,4 +1,55 @@
 # Pausefest thoughts
+## Possible order 18-1-16
+Aim for 2hrs
+
+### Intro
+* 5mins on CfA
+ - What is code
+ - Examples of government depts starting to think differently
+  - Honolulu
+  - Boston gov + ideo
+ - Whats the fellowship
+ - How we are funded
+ - What im doing at the NJC
+ - What stage i am at
+* Ann / NJC member 5-10mins on the NJC
+ - what they do
+ - how they operate
+ - what do they offer
+ - Q+A
+
+### Task 1 - ~35mins
+Goals:
+Get everyone on the same page about who the users are and what they need
+
+* Figure the goals NJC want to achieve with the services they provide
+* First task
+ - each person thinks of a type of user
+ - post it note them (one colour)
+* With your other post-it notes, write the services / information they require
+* Frame as a Questions
+ - Pick a persona, look at their goals frame each goal as a question
+
+### Task 2 -
+Goals:
+Move towards a deliverable that the NJC can move on with
+
+### Questions
+* Jo - Should each group work on just 1 persona or move around?
+ - How do we synthesise the information into something useable for the NJC - not just a design thinking exercise
+* Ann - WHAT DO YOU WANT, What stage is the website at, what is the process moving forward
+* Jake to get google example from Giselle
+* Translate NJC goals and research res: into headings to group discussion under
+
+
+## Who to invite
+* City of Yarra
+* NJC partners
+* Seamless
+* Designy folk
+* Client of the NJC - community members
+* The design companies NJC are (will) work with
+
 ## Background / Context
 * [18F Cards](https://drive.google.com/a/codeforaustralia.org/file/d/0BzOvqdazE0qWMnFNQ3Rhd1dzMG8/view)
 * [Current NJC Website](http://www.neighbourhoodjustice.vic.gov.au/)
