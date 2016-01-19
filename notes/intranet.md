@@ -72,4 +72,3 @@
  - Toolbox talk
  - Evac plan
  - Emergency contact
- 

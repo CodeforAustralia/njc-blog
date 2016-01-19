@@ -24,3 +24,6 @@
 * NJC in the community (map): [Asana project](https://app.asana.com/0/65458243259878/list) | [Moqups](https://app.moqups.com/ekigbo/5ZBPPdq0mn/view/page/a1c9a6a86)
 * Internal knowledge sharing: [Asana project](https://app.asana.com/0/65458243259875/list)
 * Client engagement: [Asana project](https://app.asana.com/0/65458243259877/list)
+
+### Useful links
+* [Boxes and arrows](http://boxesandarrows.com/): UX research tips
