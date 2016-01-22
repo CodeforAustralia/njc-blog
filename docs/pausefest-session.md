@@ -27,6 +27,7 @@ We could also ask NJC staff to contribute what they think the website should con
 ## Post-Pausefest
 Some other activities we could run after pausefest, perhaps with Civic lab, internally with NJC staff / partners or with clients:
 
+* We could replicate the card sort (online / in person) with clients / partners / staff of the NJC
 * Content Audit (I think Ann has got this covered?)
 * Web analytics  - Look at current web stats and see what people are looking at / searching for
 * Surveying clients experience:
