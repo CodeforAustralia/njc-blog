@@ -3,7 +3,7 @@ extends layout
 block content
   #research-report
     header
-      .container-fluid
+      .container-full
         .row
           .title.col-xs-8
             h1 NJC Research
@@ -12,20 +12,31 @@ block content
             a.img(href="http://codeforaustralia.org")
               img(src="/images/logo-white.png")
     #stats
-      .container-fluid
+      .container-full
         h1 Stats
     main
-      .container-fluid#content
-        section
-          include:markdown ../notes/research/shadowing.md
-        section
-          include:markdown ../notes/research/learned.md
-        section
-          include:markdown ../notes/research/working-on.md
-        section
-          include:markdown ../notes/research/opportunities.md
+      #content
+        .container-full
+          section
+            Add CoY with NJC + services + stats
+            .img-crop(style="background-image:url(https://farm9.staticflickr.com/8748/16548284197_dadcabf5c8_k.jpg);")
+        .container
+          section
+            include:markdown ../notes/research/shadowing.md
+        .container
+          section
+            include:markdown ../notes/research/learned.md
+        .container
+          section
+            include:markdown ../notes/research/working-on.md
+        .container
+          section
+            include:markdown ../notes/research/opportunities.md
     footer
-      .container-fluid
+      .container
+        section#sources
+          include:markdown ../notes/research/sources.md
+      .container
         ul
           li
             a(href="http://github.com/theatlasroom") Github

@@ -10,4 +10,4 @@ I had the opportunity to learn about how the NJC applies these concepts to the C
 * Understanding how addressing the underlying causes of criminal behaviour can be a vital step in preventing re-offending
 * Learning about the court's role in delivering Community Justice
 * The experiences of community members living in public housing
-* The opportunities that a community justice model provides for real world locally focused solutions
+* The opportunities that a community justice model provides for real world, locally focused solutions

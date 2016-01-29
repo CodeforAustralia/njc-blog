@@ -1,5 +1,5 @@
 ## What have i done
-I have spent ~ hours over ~ days at the NJC, this has been a mixture of shadowing staff in their various roles, mapping, reading, listening, hearing and documenting whatever I can about the background and the context the NJC operates in, sitting in on various community events and networks.
+I have spent ~ hours over ~ days at the NJC, this has been a mixture of shadowing staff in their various roles, mapping, reading, listening, hearing and documenting whatever I can about the background and the context the NJC operates in, sitting in on various community events and networks and getting involved.
 
 Before I started, some of my goals for this research stage were to:
 * Gain a deep understanding of who the NJC is, what they do and the space they work in
