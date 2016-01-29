@@ -1,0 +1,49 @@
+@primary-bg:#2C4458;
+@secondary-bg:#F1F1F1;
+@body:#111111;
+
+#research-report {
+  font-size:16pt;
+  font-weight:200;
+  line-height: 1.75em; 
+  background:@secondary-bg;
+  color:@body;
+}
+
+header, #stats, main, footer {
+  padding-top:1em;
+  padding-bottom:1em;
+}
+
+ul {
+  list-style-type: square;
+}
+
+a {
+  color:@primary-bg;
+  border-bottom:dotted 0.1em;
+  &.img {border:none;}
+  &:hover{
+    text-decoration:none;
+  }
+}
+
+header, #stats {
+  background:@primary-bg;
+  color:@secondary-bg;
+  a {color:@secondary-bg;}
+}
+
+
+main {
+  h2 {
+    font-size:1.5em;
+    font-weight:bold;
+    display:inline-block;
+    border-top:solid 0.25em;
+    text-transform: uppercase;
+  }
+  section {
+    margin-bottom:4em;
+  }
+}
