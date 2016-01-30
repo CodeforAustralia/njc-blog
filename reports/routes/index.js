@@ -10,7 +10,13 @@ var notes_dir = "/../notes/";
 /* GET home page. */
 router.get('/research', function(req, res, next) {
   // load the research report
+  var data = getResearchData();
+  console.log(data);
   res.render('research');
 });
+
+function getResearchData(){
+
+}
 
 module.exports = router;
