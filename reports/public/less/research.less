@@ -1,9 +1,25 @@
 #research-report {
-  font-size:16pt;
+  font-size:12pt;
   font-weight:200;
   line-height: 1.75em;
   background:@secondary-bg;
   color:@body;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm-min) {
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) {
+  #research-report {
+    font-size:16pt;
+    .metric-focus {margin-top:0.5em;}
+  }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) {
 }
 
 .container-full {
@@ -12,6 +28,14 @@
   margin:0;
   width:100%;
   height:auto;
+}
+
+header {
+  .sub-title {
+    font-size:smaller;
+    font-weight:bold;
+    text-transform: uppercase; 
+  }
 }
 
 .img-crop {
@@ -29,6 +53,7 @@ header, .metrics, main, footer {
 ul {
   list-style-type: square;
   margin-left:0;
+  padding:@gutter;
 }
 
 a {
@@ -46,6 +71,18 @@ header, .metrics {
   a {color:@secondary-bg;}
 }
 
+#sources {
+  ul {
+    padding:0 @gutter;
+    li {list-style-type:square;display:list-item;}
+  }
+}
+
+#credits {
+  margin-top:@gutter;
+  padding-top:@gutter;
+  border-top:dotted 0.01em;
+}
 
 main {
   font-size:0.8em;
@@ -65,15 +102,15 @@ main {
   }
 
   .metrics {
+    font-size:12pt;
 
     .metrics-title {
       font-size:2em;
       margin:0 0 1em 0;
     }
 
-    font-size:12pt;
+
     .metric-focus {
-      margin-top:0.5em;
       font-size:3em;
     }
 
