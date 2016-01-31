@@ -11,7 +11,7 @@ var summaries_dir = "/../summaries/";
 /* GET users listing. */
 router.get('/', function(req, res, next) {
   var start_index = 15;
-  var end_index = 21;
+  var end_index = 23;
   res.render('all-weeks', {start: start_index, end: end_index});
 });
 
