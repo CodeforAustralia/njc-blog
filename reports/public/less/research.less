@@ -1,7 +1,3 @@
-@primary-bg:#2C4458;
-@secondary-bg:#F1F1F1;
-@body:#111111;
-
 #research-report {
   font-size:16pt;
   font-weight:200;
@@ -25,7 +21,7 @@
   height:50vh;
 }
 
-header, #stats, main, footer {
+header, .metrics, main, footer {
   padding-top:1em;
   padding-bottom:1em;
 }
@@ -37,14 +33,14 @@ ul {
 
 a {
   color:@primary-bg;
-  border-bottom:dotted 0.1em;
+  border-bottom:solid 0.05em;
   &.img {border:none;}
   &:hover{
     text-decoration:none;
   }
 }
 
-header, #stats {
+header, .metrics {
   background:@primary-bg;
   color:@secondary-bg;
   a {color:@secondary-bg;}
@@ -52,14 +48,51 @@ header, #stats {
 
 
 main {
+  font-size:0.8em;
   h2 {
     font-size:1.5em;
     font-weight:bold;
     display:inline-block;
-    border-top:solid 0.25em;
     text-transform: uppercase;
   }
+
+  h3 {
+    font-size:1.25em;
+  }
+
   section {
-    margin-bottom:4em;
+    margin:@gutter * 2 0;
+  }
+
+  .metrics {
+
+    .metrics-title {
+      font-size:2em;
+      margin:0 0 1em 0;
+    }
+
+    font-size:12pt;
+    .metric-focus {
+      margin-top:0.5em;
+      font-size:3em;
+    }
+
+    .metric-summary {
+      margin-bottom:0.5em;
+      font-size:1.5em;
+      text-transform: uppercase;;
+    }
+
+    .metric-value {
+      font-weight:bold;
+    }
+
+    .metric {
+      margin-bottom:1em;
+      ul {
+        padding:0;margin:0;
+        li {list-style-type: none;}
+      }
+    }
   }
 }

@@ -11,21 +11,22 @@ block content
           .logo.text-sm-right.col-sm-4.col-xs-12
             a.img(href="http://codeforaustralia.org")
               img(src="/images/logo-white.png")
-    #stats
-      .container-fluid
-        h1 Stats
     main
       #content
-        .container.container-full
-          section
-            // Add CoY with NJC + services + stats
-            .img-crop(style="background-image:url(https://farm9.staticflickr.com/8748/16548284197_dadcabf5c8_k.jpg);")
+        //
+          .container.container-full
+            section
+              // Add CoY with NJC + services + stats
+              .img-crop(style="background-image:url(https://farm9.staticflickr.com/8748/16548284197_dadcabf5c8_k.jpg);")
         .container
           section
             include:markdown ../notes/research/context.md
         .container
           section
             include:markdown ../notes/research/shadowing.md
+        .container-fluid.metrics
+          section
+            include ./stats.jade
         .container
           section
             include:markdown ../notes/research/learned.md
