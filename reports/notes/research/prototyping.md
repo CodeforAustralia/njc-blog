@@ -1,10 +1,8 @@
-## Whats next
-The
+## Next steps
+For the rest of my fellowship I will be focusing on a few key areas to prototypes and start testing some of our research with the community.
 
+One of the biggest opportunities for innovation is in the way that courts currently provide clients with clear, timely access to information about their matter. Currently in most instances clients are provided with printouts on the spot, or mailed information related to their matter at a later date.
 
-### Working with a
+For the NJC this can be in regards to pre-sentencing appointments, court dates or simply access to outcomes such as intervention orders. Giving clients access to this information will help support them through their interactions with the Justice system, provide them with clarity of where their matter is at and help when they need to re-tell their story or recount previous events.
 
-[//]: # "Some areas we could trial some new ideas around include:"
-[//]: # "* How we work around the constraints of the core DOJ systems, particularly court-link"
-[//]: # "* Providing clients with greater agency and options for accessing information related to their case"
-[//]: # "* Finding opportunities and ways to share the experiences, ideas and knowledge of the NJC community"
+I will also be looking at opportunities to help support the staff working within the NJC by looking at ways we could help the NJC better tell share their model of community justice, find ways to engage and involve their community in the work they do and simplify the sharing of information across systems that currently don't talk to each other.

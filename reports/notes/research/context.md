@@ -1,4 +1,4 @@
-## Neighbourhood Justice Centre (NJC)
+## Background
 The Neighbourhood Justice Centre (NJC) is Australia's only [community justice](http://www.neighbourhoodjustice.vic.gov.au/home/about+us/community+justice/) centre, servicing the [City of Yarra](https://en.wikipedia.org/wiki/City_of_Yarra) since 2007 with a focus on addressing the causes of anti-social behaviour and addressing social inequality.
 
 Some of the key services the NJC provides include, functioning as a multi-jurisdictional Magistrate Court for the City of Yarra, providing a client problem solving approach to justice and also providing a central space for community groups and members to come togethor.
