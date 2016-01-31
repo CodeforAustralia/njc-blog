@@ -1,6 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,700|Lato:400,300,200,100|Roboto+Condensed:400,700,300|Raleway:400,100);
+
+body {
+  font-family:lato;
+  font-weight:300;
+}
+
+h1,h2,h3,h4 {font-family:"Roboto Condensed";}
+
+header, footer {
+  h1,h2,h3,h4 {font-family:lato;}
+}
+
 #research-report {
   font-size:12pt;
-  font-weight:200;
   line-height: 1.75em;
   color:@body;
 }
@@ -13,7 +25,10 @@
 @media (min-width: @screen-md-min) {
   #research-report {
     font-size:17pt;
-    .metrics .metric-focus {margin-top:1.5em;}
+  }
+  .metrics .metric-focus {margin-top:1.5em;}
+  a {
+    border-bottom:solid 0.05em;
   }
 }
 
@@ -30,6 +45,7 @@
 }
 
 header {
+  .logo a {border:none;}
   .sub-title {
     font-size:smaller;
     font-weight:bold;
@@ -58,17 +74,23 @@ ul {
 
 a {
   color:@primary-bg;
-  border-bottom:solid 0.05em;
+  border-bottom:solid 0.1em;
   &.img {border:none;}
   &:hover{
     text-decoration:none;
   }
 }
 
-header, .metrics {
+header{
   background:@primary-bg;
   color:@secondary-bg;
   a {color:@secondary-bg;}
+}
+
+.metrics {
+  background:@secondary-bg;
+  color:@primary-bg;
+  a {color:@primary-bg;}
 }
 
 #sources {
@@ -107,7 +129,7 @@ main {
   }
 
   .metrics {
-    font-size:11pt;
+    font-size:8pt;
 
     .metrics-title {
       font-size:2em;
@@ -132,7 +154,7 @@ main {
     .metric {
       margin-bottom:1em;
       ul {
-        font-size:1em;
+        font-size:1.55em;
         padding:0;margin:0;
         li {list-style-type: none;padding:0;}
       }
