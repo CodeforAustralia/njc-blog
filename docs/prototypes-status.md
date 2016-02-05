@@ -5,7 +5,7 @@ A list of the areas that we are looking into as prototypes, some might be pursue
 - [Client facing](#client-facing)
 	- [Electronic access to documents](#electronic-access-to-documents)
 	- [Calendar of appointments](#calendar-of-appointments)
-	- [Online adjournments](#online-adjournments)
+	- [Online guilty pleas](#online-guilty-pleas)
 - [Internal](#internal)
 	- [NJC Intranet](#njc-intranet)
 	- [In / Out board](#in-out-board)
@@ -48,7 +48,7 @@ Providing online access to a list of your upcoming appointments (with social wor
   - Test with information team, registry, social workers
   - Test with clients
 
-### Online adjournments
+### Online guilty pleas
 QLD have implemented [online guilty pleas](https://www.qld.gov.au/law/court/going-to-court/plead-guilty-online/#), this is something we could trial for the MCV
 
 #### Status: Not started
