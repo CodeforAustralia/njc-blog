@@ -5,4 +5,4 @@
 * Suggest 3 - 5 businesses
   - either full service
   - part service (design phase, prototype phase)
-* In/out sell - Info team are doing aa job they dont ned to do, you need to help us do that -> use in out board 2
+* In/out sell - Info team are doing a job they dont need to do, you need to help us do that -> use in out board 2

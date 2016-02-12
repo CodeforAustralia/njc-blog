@@ -1,4 +1,4 @@
-## Learnings
+## Some things I've learned
 Some of the goals the NJC is committed to include tackling social disadvantage, addressing the underlying causes of crime and increasing access and confidence in the Justice system for members of the community.
 
 I had the opportunity to learn about how the NJC applies these concepts in the City of Yarra, some of the key things I learnt about included:
