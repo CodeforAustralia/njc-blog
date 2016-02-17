@@ -7,26 +7,6 @@ composer.phar
 Thumbs.db
 tests/_output/*
 
-
-# Laravel
-/bootstrap/compiled.php
-/vendor
-
-# Configuration
-/app/config/local
-.env.local.php
-
-# Composer
-composer.phar
-
-# OS
-.idea/
-vagrant
-.vagrant
-
-# sass
-.sass-cache
-
 # angular files to ignore
 gen_docs.disable
 test.disable
