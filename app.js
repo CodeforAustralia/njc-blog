@@ -13,6 +13,7 @@ var todos = require('./routes/todos');
 var documentation = require('./routes/documentation');
 var docs = require('./routes/docs');
 var report_app = require('./reports/app');
+var proxy = require('./routes/proxy');
 
 var app = express();
 app.locals.pretty = true;
@@ -33,7 +34,7 @@ app.use('/', routes);
 app.use('/users', users);
 app.use('/weeks', weeks);
 // app.use('/todos', todos); // removed - now all on asana
-app.use('/prototypes', prototypes);
+app.use('/prototype-list', prototypes);
 app.use('/documentation', documentation);
 app.use('/docs', docs);
 app.use('/reports', report_app);

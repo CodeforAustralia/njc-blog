@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "config": {
-    "port":5000
+    "port": 5000
   },
   "scripts": {
     "start": "PORT=1337 node ./bin/www"
@@ -22,6 +22,7 @@
   },
   "devDependencies": {
     "ddp": "^0.11.0",
+    "express-http-proxy": "^0.6.0",
     "lodash": "^4.1.0",
     "mongodb": "^2.1.4"
   }
