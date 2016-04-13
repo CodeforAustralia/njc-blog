@@ -3,29 +3,44 @@ extends layout
 block content
   main
     .container
-      h3 NJC Prototypes
-      h4 Client facing tools
-      ul
-        li
-          a(href="http://njc-efv.herokuapp.com") Electronic access to documents
-        li Calendar of appointments
-        li Online adjournments (possibly)
+      h2 NJC Prototypes
+      h3 Client facing tools
+      h4
+        a(href="http://njc-efv.herokuapp.com") Electronic access to documents
+      p  Problem: Currently, clients only have the option to receive printed copies of their court documents. We wanted to see what it might look like for clients to be able to access documents online, anytime from their own devices.
+      p  Solution: This was a concept to see how we could go about providing access to online documents to clients, particularly family violence intervention orders. Simple SMS link to an online pdf thats mobile responsive sent to the user if they opt in, sent from the NJC online family violence admin by the registry team from a single button click.
+      h4 Calendar of appointments
+      p  Problem: The NJC client services team make referrals for clients both internally and externally to partner services, these referrals are a way of helping clients start to address some of the issues of that lead to criminal offences. Unfortunately for various reasons clients miss these appointments or vital court dates, leaving them to miss an opportunity
+        | for a better outcome with their case.
+      p Solution: Test if sending out reminders of calendar appointments, as well as allowing clients to choose a time that suits them (out of a set of options), would help raise the level of attendance.
+      h4 Online pleas
+      p  Problem: For people who are planning on pleading guilty to a minor offence they still need to come into court. currently they can write to the court to state their case of why they dont want to attend if they are already planning on pleading guilty.
+      p  Solution: Online form to submit directly to the registry, giving details of your offence, your reasons for not wanting to attend court and your acknowledgment that you are ready to plead guilty.
 
-      h4 Internal
-      ul
-        li
-          a(href="http://njc-intranet.herokuapp.com") NJC Intranet
-        li
-          a(href="http://njc-intranet.herokuapp.com") In/Out board alternative
-        li Knowledge sharing / internal comms
-        li Family violence case history
+      h3 Internal
+      h4 NJC Intranet
+      p Problem: The NJC currently don't have an intranet, what could this look like and what would be useful for a small court allowing them to manage their own documents, staff information, training and induction information for new staff.
+      p Solution: Prototyping a custom intranet with support for document versioning, access to staff contact lists and general onboarding information for new staff.
+      //h4 In/Out board alternative
+      //h4 Knowledge sharing / internal comms
+      h4 Court lists triaging
+      p Problem: For family violence cases, the NJC takes some steps to prepare for the next weeks cases, this involves ensuring there are no legal conflicts for each case as well as preparing background information on previous clients and deciding which services might be best to offer support on the day.
+        | On the day in court, various services offer support to each client, often leading to an opportunity to resolve issues that are affecting the client. This is currently managed entirely in paper and the outcomes are generally not recorded.
+      p Solution: Provide a simple interface for next weeks cases to be loaded into, so each service can update their information as they need during the week. The NJC will also be able to record interactions services are having with clients to better understand how the work they do to prepare helps impact outcomes.
 
+      h3 Community / External
+      h4 Showcasing the NJC community justice model
+      p Problem: One of the strengths of the NJC is the deep integration of a range of services that can be offered to assess and help each of their clients. Helping put clients in a position that will reduce re-offending and continue forward. The NJC would like to help show how they work together with other service providers in the City of Yarra to tackle issues in their community.
+      p Solution: Prototype a web site that can help to showcase work that has been done previously in the City of Yarra by a range of services, the outcomes of the work and to celebrate work that has had a positive impact on the city of yarra.
 
-      h4 Community / External
-      ul
-        li
-          a(href="https://app.moqups.com/ekigbo/5ZBPPdq0mn/view/page/a1c9a6a86") Strengthening the City of Yarra - NJC Map
-        li NJC Website
+      h4 NJC Website
+      p Problem: The NJC is about to undergo a process of redesigning their website and would like to move to a site that is clear, simple and completely focused on their clients, built with clients at the centre.
+      p Solution: We have been working with the NJC on activities to gather user feedback and information, to understand who their clients are, what they want and how they use the website before the NJC starts to design their new site.
+      //
+        ul
+          li
+            a(href="https://app.moqups.com/ekigbo/5ZBPPdq0mn/view/page/a1c9a6a86") Strengthening the City of Yarra - NJC Map
+            li NJC Website
       //
         h4 Electronic access to documents
         ul

@@ -1,6 +1,15 @@
 extends layout
 
 block content
-  h1= message
-  h2= error.status
-  pre #{error.stack}
+  main
+    .container
+      .row
+        .col-xs-12
+          h1= message
+          h2= error.status
+          p We couldn't the page you wanted! I'm so sowrrrrrry.
+      .row
+        .col-xs-12
+          iframe.giphy-embed(src='//giphy.com/embed/3e18NPUVzoxzO?html5=true', width='480', height='262', frameborder='0', allowfullscreen='')
+          p
+            a(href='http://giphy.com/gifs/sad-panda-3e18NPUVzoxzO') via GIPHY

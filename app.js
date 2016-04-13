@@ -4,10 +4,12 @@ var favicon = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
+var compression = require('compression');
 
 var routes = require('./routes/index');
 var users = require('./routes/users');
 var weeks = require('./routes/weeks');
+var info = require('./routes/info');
 var prototypes = require('./routes/prototypes');
 var todos = require('./routes/todos');
 var documentation = require('./routes/documentation');
@@ -28,15 +30,17 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
-app.use(express.static(path.join(__dirname, 'public')));
 
 // set the static asset path
+app.use(compression()); //use compression
+app.use(express.static(path.join(__dirname, 'public')));
 app.use('/static', express.static('public'));
 
 app.use('/', routes);
 app.use('/users', users);
 app.use('/weeks', weeks);
 // app.use('/todos', todos); // removed - now all on asana
+app.use('/info', info);
 app.use('/prototype-list', prototypes);
 app.use('/documentation', documentation);
 app.use('/docs', docs);
