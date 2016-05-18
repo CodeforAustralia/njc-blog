@@ -5,8 +5,11 @@
   "config": {
     "port": 5000
   },
+  "engines": {
+    "node": "5.8.0"
+  },
   "scripts": {
-    "start": "PORT=1337 node ./bin/www"
+    "start": "node ./bin/www"
   },
   "dependencies": {
     "body-parser": "~1.12.4",
