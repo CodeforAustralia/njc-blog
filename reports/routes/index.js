@@ -12,5 +12,9 @@ router.get('/research', function(req, res, next) {
   res.render('research');
 });
 
+router.get('/final-report', function(req, res, next) {
+  // load the research report
+  res.render('final');
+});
 
 module.exports = router;

@@ -1,0 +1,34 @@
+extends layout
+
+block content
+  #research-report
+    header
+      .container-fluid
+        .row
+          .title.col-sm-8.col-xs-12
+            h1 Final report
+            p
+              span.sub-title Neighbourhood Justice Centre
+          .logo.text-sm-right.col-sm-4.col-xs-12
+            a.img(href="http://codeforaustralia.org")
+              img(src="/images/logo-white.png")
+    main
+      #content
+        .container
+          section
+            include:markdown ../notes/final/final-report.md
+    footer
+      .container
+        section#credits
+          ul
+            li
+              a(href="http://github.com/theatlasroom") Github
+            li
+              a(href="http://github.com/theatlasroom") Twitter
+            li
+              a(href="http://neighbourhoodjustice.vic.gov.au") Neighbourhood Justice Centre
+            li
+              a(href="http://codeforaustralia.org") Code for Australia
+          p
+            | Designed and maintained by:&nbsp;
+            a(href="http://github.com/theatlasroom") @theatlasroom
