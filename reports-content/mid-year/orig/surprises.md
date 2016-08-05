@@ -1,2 +1,0 @@
-# Surprises
-## Comparative cost
