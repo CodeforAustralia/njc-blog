@@ -27,4 +27,4 @@ Other areas for further improvement include:
 * Expanding the reporting and data available
 * User experience testing
 
-<button class="btn btn-default">View demo</button>
+<a class="btn btn-default" href="https://triage.njc.codeforaustralia.org">View demo</a> | <a class="btn btn-default" href="https://github.com/CodeforAustralia/case-triage">Github</a>

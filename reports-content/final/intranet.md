@@ -25,4 +25,4 @@ Particularly the staff in and out board, this could be pursued as a standalone s
 * Sending prompts and reminders for staff to update their status
 * Integration with any appointment management tool
 
-<button class="btn btn-default">View demo</button>
+<a class="btn btn-default" href="https://intranet.njc.codeforaustralia.org">View demo</a> | <a class="btn btn-default" href="https://github.com/CodeforAustralia/njc-intranet">Github</a>

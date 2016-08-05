@@ -15,4 +15,4 @@ Further improvements needed after the pilot include:
 * Thorough review of the types of cases that could be included
 * User experience research and testing
 
-<button class="btn btn-default">View demo</button>
+<a class="btn btn-default" href="https://online-pleas.njc.codeforaustralia.org">View demo</a> | <a class="btn btn-default" href="https://github.com/CodeforAustralia/online-pleas">Github</a>
