@@ -1,0 +1,4 @@
+## Final thoughts
+One of the clear challenges for any government organisation taking on year long fellows is the difficulty in being able to pinpoint exactly what the outcomes of the process will be, nonetheless the NJC were committed to exploring how they could find new ways to continue the work they do and also use the opportunity to learn something from the process. This proved to be one of the biggest strengths of the experience as it allowed me to explore the centre, not only as a passive observer but as an active particpant that could provide insights and draw conclusions that come when you're looking from a fresh perspective.
+
+The end result being that we were able to create an environment for the NJC to incubate and explore ideas they had, we could quickly try applying a solution to a pain point and then assess the viability for the solution in-house without having to contract the work needed for a prototype which would have added extra delay and cost.
