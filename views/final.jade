@@ -1,9 +1,9 @@
 extends report-layout
 
 block content
-  #research-report
+  #final-report
     header
-      .container-fluid
+      .container
         .row
           .title.col-sm-8.col-xs-12
             h1 Final report
@@ -35,13 +35,13 @@ block content
             include:markdown ../reports-content/final/case-triage.md
         .container.container-full
           section
-            .img-crop(style="background-image:url(/images/case-triage.jpg);")
+            .img-crop(style="background-image:url(/images/case-triage.png);")
         .container
           section
             include:markdown ../reports-content/final/intranet.md
         .container.container-full
           section
-            .img-crop(style="background-image:url(/images/intranet.jpg);")
+            .img-crop(style="background-image:url(/images/intranet.png);")
         .container
           section
             include:markdown ../reports-content/final/prototypes.md

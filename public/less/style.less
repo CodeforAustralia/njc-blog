@@ -15,16 +15,17 @@
   }
 }
 
-body.njc {
+body {
 
   font-size:12pt;
   font-family:'Roboto', helvetica, verdana, sans-serif;
   color:@dark-grey;
-  background:@light-grey-1;
+  background:@light-grey-2;
 
   header {
+    h1, h2, {color:@light-grey-2;}
     padding:2rem 0;
-    background:@light-grey-2;
+    background:@cfa-dark-blue;
     h2 {padding:0;border:none;font-size:smaller;}
     img {
       position:relative;
@@ -37,21 +38,12 @@ body.njc {
     background:transparent;
     min-height:30vh;
     padding:2rem 0;
-
-    h1 {font-size:4rem;font-weight:bold;}
-    h2 {font-size:2.5rem;font-weight:bold;border-left:solid 0.25em @yellow;padding-left:0.5em;text-transform: uppercase;}
-    h3 {font-size:2rem;font-weight:normal;}
-    p, ol, ul, blockquote {font-size:1.75rem;font-weight:300;  line-height:3rem;}
-
-    ul {
-      padding:0;margin:0;margin-left:2rem;
-      li {list-style-type:square;}
-    }
   }
 
   h2 {
     &:first-of-type {margin-top:0;}
     margin-top:8rem;
+    font-size:larger;
   }
 
   footer {
@@ -74,6 +66,7 @@ body.njc {
 
     &:hover, &:active {
       font-weight:bold;
+      border-bottom:solid 1px;
     }
   }
 
@@ -83,13 +76,18 @@ body.njc {
 
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto Condensed', sans-serif;
-    color:@blue;
+    color:@cfa-dark-blue;
   }
 
-  h1 {font-size:6rem;font-weight:bold;}
-  h2 {font-size:3.25rem;font-weight:bold;border-left:solid 0.25em @yellow;padding-left:0.5em;text-transform: uppercase;}
-  h3 {font-size:2.5rem;font-weight:normal;}
+  h1 {font-size:4rem;font-weight:bold;}
+  h2 {font-size:3rem;font-weight:bold;text-transform: uppercase;}
+  h3 {font-size:2rem;font-weight:normal;}
   p, ol, ul, blockquote {font-size:2rem;font-weight:300;  line-height:3.5rem;}
+
+  ul {
+    padding:0;margin:0;margin-left:2rem;margin-bottom:4rem;
+    li {list-style-type:square;}
+  }
 
   blockquote {
     margin-top:8rem;
